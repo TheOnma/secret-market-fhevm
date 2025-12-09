@@ -59,8 +59,8 @@ A fully homomorphic encryption (FHE) powered prediction market platform that ena
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/TheOnma/fhevm-project.git
-   cd fhevm-project
+   git clone (https://github.com/TheOnma/secret-market-fhevm.git)
+   cd secret-market-fhevm
    ```
 
 2. **Install dependencies**
